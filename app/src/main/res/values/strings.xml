@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">PressureAndPulseFirestore</string>
+
+    <string name="main_title">Давление и пульс</string>
+    <string name="pressure_separator">/</string>
+    <string name="up_pressure_hint">Верхнее давление</string>
+    <string name="down_pressure_hint">Нижнее давление</string>
+    <string name="pulse_hint">Пульс</string>
+    <string name="add_title">Добавление</string>
+    <string name="dialog_positive_button">Сохранить</string>
+    <string name="dialog_negative_button">Отмена</string>
+    <string name="error_field">Некорректное значение</string>
 </resources>

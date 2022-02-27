@@ -10,6 +10,6 @@
 - Kotlin
 - Coroutines
 - Koin
-- Paging 3
+- Gson
 - Firestore
 - LiveData, ViewModel
